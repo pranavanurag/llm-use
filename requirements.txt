@@ -1,0 +1,5 @@
+claudette
+openai
+ipykernel
+nbformat
+nbconvert
