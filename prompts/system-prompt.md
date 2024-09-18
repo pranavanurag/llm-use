@@ -44,8 +44,6 @@ your response here
 
 you will be given some tools, and you should use them wisely
 
-avoid using them unless asked explicitly
-
 ## METAPROMPT2-END
 
 # PROMPT-END
